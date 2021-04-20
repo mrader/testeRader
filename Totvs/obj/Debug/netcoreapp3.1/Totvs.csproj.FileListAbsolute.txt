@@ -1,0 +1,158 @@
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Totvs.exe
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Totvs.deps.json
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Totvs.runtimeconfig.json
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Totvs.runtimeconfig.dev.json
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Totvs.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Totvs.pdb
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Marcelo\source\repos\Totvs\obj\Debug\netcoreapp3.1\Totvs.csprojAssemblyReference.cache
+C:\Users\Marcelo\source\repos\Totvs\obj\Debug\netcoreapp3.1\Totvs.AssemblyInfoInputs.cache
+C:\Users\Marcelo\source\repos\Totvs\obj\Debug\netcoreapp3.1\Totvs.AssemblyInfo.cs
+C:\Users\Marcelo\source\repos\Totvs\obj\Debug\netcoreapp3.1\Totvs.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\Totvs\obj\Debug\netcoreapp3.1\Totvs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marcelo\source\repos\Totvs\obj\Debug\netcoreapp3.1\staticwebassets\Totvs.StaticWebAssets.Manifest.cache
+C:\Users\Marcelo\source\repos\Totvs\obj\Debug\netcoreapp3.1\staticwebassets\Totvs.StaticWebAssets.xml
+C:\Users\Marcelo\source\repos\Totvs\obj\Debug\netcoreapp3.1\scopedcss\bundle\Totvs.styles.css
+C:\Users\Marcelo\source\repos\Totvs\obj\Debug\netcoreapp3.1\Totvs.RazorTargetAssemblyInfo.cache
+C:\Users\Marcelo\source\repos\Totvs\obj\Debug\netcoreapp3.1\Totvs.csproj.CopyComplete
+C:\Users\Marcelo\source\repos\Totvs\obj\Debug\netcoreapp3.1\Totvs.dll
+C:\Users\Marcelo\source\repos\Totvs\obj\Debug\netcoreapp3.1\Totvs.pdb
+C:\Users\Marcelo\source\repos\Totvs\obj\Debug\netcoreapp3.1\Totvs.genruntimeconfig.cache
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Scrutor.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marcelo\source\repos\Totvs\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Marcelo\source\repos\Totvs\obj\Debug\netcoreapp3.1\Totvs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Totvs.exe
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Totvs.deps.json
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Totvs.runtimeconfig.json
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Totvs.runtimeconfig.dev.json
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Totvs.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Totvs.pdb
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Scrutor.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\obj\Debug\netcoreapp3.1\Totvs.csprojAssemblyReference.cache
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\obj\Debug\netcoreapp3.1\Totvs.AssemblyInfoInputs.cache
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\obj\Debug\netcoreapp3.1\Totvs.AssemblyInfo.cs
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\obj\Debug\netcoreapp3.1\Totvs.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\obj\Debug\netcoreapp3.1\Totvs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\obj\Debug\netcoreapp3.1\Totvs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\obj\Debug\netcoreapp3.1\staticwebassets\Totvs.StaticWebAssets.Manifest.cache
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\obj\Debug\netcoreapp3.1\staticwebassets\Totvs.StaticWebAssets.xml
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\obj\Debug\netcoreapp3.1\scopedcss\bundle\Totvs.styles.css
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\obj\Debug\netcoreapp3.1\Totvs.RazorTargetAssemblyInfo.cache
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\obj\Debug\netcoreapp3.1\Totvs.csproj.CopyComplete
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\obj\Debug\netcoreapp3.1\Totvs.dll
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\obj\Debug\netcoreapp3.1\Totvs.pdb
+C:\Users\Marcelo\source\repos\_Ejercicio Totvs\Totvs\obj\Debug\netcoreapp3.1\Totvs.genruntimeconfig.cache
